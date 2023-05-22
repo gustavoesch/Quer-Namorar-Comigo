@@ -1,1 +1,16 @@
-# Quer-Namorar-Comigo
+# Quer namorar comigo?
+
+## Requisitos:
+```shell
+Python3
+Pygame
+Sys
+```
+## Instalação:
+linux:
+```shell
+
+sudo apt install pip
+pip install pygame
+```
+
