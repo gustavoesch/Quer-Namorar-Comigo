@@ -1,5 +1,3 @@
-# Quer namorar comigo?
-
 ## Requisitos:
 ```shell
 Python3
